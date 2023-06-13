@@ -10,4 +10,10 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 500;
+    background-color: #AEDBF6;
+    color: #424949;
+}
+
+h1 {
+    color: #424949;
 }
