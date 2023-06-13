@@ -30,8 +30,8 @@ nav {
 
 img {
     border: 2px solid black;
-    max-width: 60%;
-    padding: 10px;
+    max-width: 100%;
+    padding: 0px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -41,8 +41,15 @@ img {
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
+    font-size: xx-large;
+    font-weight: 800;
 }
 
 figure {
     margin-top: 40px;
+}
+
+#clouds {
+    max-width: 100% padding: max-content;
+    background: rgba(0, 0, 0, 0.1)
 }
