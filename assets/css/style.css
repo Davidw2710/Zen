@@ -8,7 +8,7 @@
 
 body {
     font-family: Roboto, sans-serif;
-    background-color: #AEDBF6;
+    background-color: #fff;
     color: #424949;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -51,7 +51,7 @@ h2 {
 }
 
 nav {
-    background-color: antiquewhite;
+    background-color: #fff;
 }
 
 #menu a:hover {
@@ -65,6 +65,6 @@ nav {
 
 #home-image {
     width: 100%;
-    height: 400px;
-    background: url(../images/1296x728_BODY_Meditation_Positions-Standing.webp);
+    height: 300px;
+    background: url(../images/mindfulnessshutterstock_1416917957.webp) no-repeat center center;
 }
