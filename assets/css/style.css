@@ -65,6 +65,17 @@ nav {
 
 #home-image {
     width: 100%;
-    height: 300px;
-    background: url(../images/mindfulnessshutterstock_1416917957.webp) no-repeat center center;
+    height: 100%;
+    background: url(../images/shashi-chaturvedula-FjYwhowyp6k-unsplash.jpg) no-repeat center center;
+}
+
+.sub-img {
+    float: right;
+    height: 200px;
+    width: 200px;
+}
+
+.points {
+    position: absolute;
+    width: 70%;
 }
