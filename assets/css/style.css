@@ -69,13 +69,8 @@ nav {
     background: url(../images/shashi-chaturvedula-FjYwhowyp6k-unsplash.jpg) no-repeat center center;
 }
 
-.sub-img {
-    float: right;
-    height: 200px;
-    width: 200px;
-}
-
-.points {
-    position: absolute;
-    width: 70%;
+.img {
+    border: 1px solid black;
+    padding: 3px;
+    margin: 5px;
 }
